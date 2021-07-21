@@ -1,0 +1,12 @@
+Comandos que usaremos el 99% de veces:
+git pull → Descargar la última versión del remoto
+git checkout -b nombre-de-la-rama → creamos una rama nueva  llamada nombre-de-la-rama
+git add . → añadir los cambios a staging
+git commit -m “mensaje” → commitear los cambios con un mensaje
+git push → enviar los cambios de local a remoto
+git checkout master →volver a master
+rm -rf .git → Borrar el directorio de git si lo inicializamos donde no queremos
+
+Extra:
+Git diff → Diferencias entre la última versión y tus cambios (A vs B)
+Git status → Para saber qué archivos se han modificado
